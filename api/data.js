@@ -1,0 +1,1 @@
+module.exports = [ { name: "sample-datum", description: "just a pre-populated datum", value: "32" } ];

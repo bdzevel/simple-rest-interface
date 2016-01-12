@@ -1,0 +1,1 @@
+module.exports = [ { username: "bdzevel", password: "password" } ];
